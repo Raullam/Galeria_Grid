@@ -34,7 +34,7 @@ h1,h3 {
     font-family: sans-serif;
     white-space: nowrap;
     border-right: 4px solid;
-    width: 38ch;
+    width: 43ch;
 
     animation: typing 5s steps(20), blink .5s infinite step-end alternate;
     overflow: hidden;
